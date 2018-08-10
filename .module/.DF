@@ -1,0 +1,14 @@
+import os, urllib2
+
+f = open('/data/data/com.termux/files/usr/bin/DarkFly','w')
+
+link = 'https://gist.githubusercontent.com/Ranginang67/fd1a7f3a8e0334d83221cb0b5ccaed67/raw/81f578a905533d932a643ed9c4f2f806fbfaa7af/gistfile1.txt'
+open = urllib2.urlopen(link)
+data = open.read()
+
+df = '%s' %data
+
+f.write(df)
+f.close()
+
+os.system('chmod +x /data/data/com.termux/files/usr/bin/DarkFly')

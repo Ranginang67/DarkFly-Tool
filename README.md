@@ -11,3 +11,5 @@ how to install ( Termux only )
 * `$ python2 install`
  
  # Thanks!!
+
+my YouTube Channel -: https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ

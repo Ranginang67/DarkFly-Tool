@@ -11,7 +11,7 @@ dua = '.MN'
 dfile = '.DF'
 lb = 'lib'
 
-print '\n\astart...'
+print 'starting...'
 time.sleep(0.6)
 os.system('%s && apt-get install php -y' % (luc))
 os.system('python2 %s/.SPM' % (file))

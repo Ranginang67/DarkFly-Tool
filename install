@@ -1,9 +1,10 @@
 import os, time
 
 def done():
-    os.system('cd && rm -rf DarkFly-Tool && ../usr/bin/DarkFly')
+    print '\n[*] run type "DarkFly"\n'
+    os.system('cd && rm -rf DarkFly-Tool')
 
-bin = '../usr/bin'
+bin = '/data/data/com.termux/files/usr/bin'
 luc = 'clear >$(tty)'
 file = '.module'
 dua = '.MN'

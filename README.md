@@ -10,6 +10,4 @@ how to install ( Termux only )
 * `$ cd DarkFly-Tool`
 * `$ python2 install`
  
- # Thanks!!
-
-my YouTube Channel -: https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ
+ Thanks!!

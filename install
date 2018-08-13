@@ -1,7 +1,7 @@
-import os, time
+import os
 
 def done():
-    print '\n[*] run type "DarkFly"\n'
+    print '\n[!] Done!\n[*] run type "DarkFly"\n'
     os.system('cd && rm -rf DarkFly-Tool')
 
 bin = '/data/data/com.termux/files/usr/bin'
@@ -11,9 +11,7 @@ dua = '.MN'
 dfile = '.DF'
 lb = 'lib'
 
-print 'starting...'
-time.sleep(0.6)
-os.system('%s && apt-get install php -y' % (luc))
+print 'installing...'
 os.system('python2 %s/.SPM' % (file))
 os.system('python2 %s/.MNBS' % (file))
 os.system('python2 %s/%s' % (file, dua,))

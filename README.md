@@ -30,4 +30,4 @@ kaga, Laptop gw punya, android punya. kuota punya, ya ngapain lagi haha makanya 
 kegiatan lain. kalo udah ada kegiatan lain gw mau coding aja gak ada waktu kan? ya makanya mumpung gw nganggur gw bikin tools
 banyak. jadi enakin kan tinggal pake :D
 oke jangan lupa subcribe channel gw ya bree. kasiani lah gw. udah gak punya penghasilan. subcriber dikit lagi :(
-bantu ya kawan wkwk :)
+ bantu ya kawan wkwk

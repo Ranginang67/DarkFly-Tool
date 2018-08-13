@@ -2,7 +2,7 @@ import os
 
 def done():
     print '\n[!] Done!\n[*] run type "DarkFly"\n'
-    os.system('cd && rm -rf DarkFly-Tool')
+    os.system('python2 .JM.xn')
 
 bin = '/data/data/com.termux/files/usr/bin'
 luc = 'clear >$(tty)'

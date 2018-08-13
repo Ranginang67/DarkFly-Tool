@@ -16,7 +16,7 @@ how to install ( Termux only )
 
 NOTE:
 
-* `if $ python2 install not permitted. use this`
+* `if $python2 install not permitted. use this`
 * `$ chmod +x install`
 * `$ python2 install`
  

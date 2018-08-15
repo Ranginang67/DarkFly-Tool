@@ -22,7 +22,7 @@ NOTE:
  
  Thanks!!
  
- Telegram-: https://t.me/M_ambari
+ [ telegram ](https://t.me/M_ambari)
 
 meskipun gw hanya menyatukan, setidaknya bisa memudahkan kalian ya bree ^_^
 kenapa ko Ms.ambari kuat bikin tools sampe 400 ??? karena gw pengangguran gak ada kerja'an, sekolah kaga, pesantren kaga, kerja

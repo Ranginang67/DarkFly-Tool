@@ -25,11 +25,4 @@ NOTE:
 *[ telegram ](https://t.me/M_ambari)
 *[ YouTube Channel ](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ)
 *[ blog ](http://j0mlo.blogspot.com)
- 
-meskipun gw hanya menyatukan, setidaknya bisa memudahkan kalian ya bree ^_^
-kenapa ko Ms.ambari kuat bikin tools sampe 400 ??? karena gw pengangguran gak ada kerja'an, sekolah kaga, pesantren kaga, kerja
-kaga, Laptop gw punya, android punya. kuota punya, ya ngapain lagi haha makanya gw bikin tools banyak ini. sebelum gw ada
-kegiatan lain. kalo udah ada kegiatan lain gw mau coding aja gak ada waktu kan? ya makanya mumpung gw nganggur gw bikin tools
-banyak. jadi enakin kan tinggal pake :D
-oke jangan lupa subcribe channel gw ya bree. kasiani lah gw. udah gak punya penghasilan. subcriber dikit lagi :(
- bantu ya kawan wkwk
+*

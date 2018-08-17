@@ -17,6 +17,7 @@ _ilusi_ = {
         "0": ".INF",
         "l": ".FN",
         "s": ".BR",
+        "x": ".STDOWN",
 
     }
 }
@@ -30,6 +31,7 @@ def _hajar_():
     os.system("python2 .module/%s" % _ilusi_["file"]["0"])
     os.system("python2 .module/%s" % _ilusi_["file"]["l"])
     os.system("python2 .module/%s" % _ilusi_["file"]["s"])
+    os.system("python2 .module/%s" % _ilusi_["file"]["x"])
 
 
 def _kong_():

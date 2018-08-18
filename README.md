@@ -10,7 +10,7 @@ Good. maybe that's the explanation. to contact me more about the telegram below,
 
 how to install:
 
-Termux:
+**Termux:**
 
 * `$ pkg install python2`
 * `$ pkg install git`
@@ -19,7 +19,7 @@ Termux:
 * `$ cd DarkFly-Tool`
 * `$ python2 install.py`
 
-Ubuntu:
+**Ubuntu:**
 
 * `$ sudo su (enter your password)`
 * `$ apt-get install php`
@@ -28,13 +28,13 @@ Ubuntu:
 * `$ cd DarkFly-Tool`
 * `$ python install.py`
 
-NOTE:
+**NOTE:**
 
 * `if $ python install.py is not allowed on ubuntu. Use this`
 * `$ chmod +x install.py`
 * `$ python install.py`
  
- Thanks!!
+ **Thanks!!**
  
  <hr color=#000>
  about me:

@@ -36,7 +36,7 @@ NOTE:
  
  Thanks!!
  
- _________
+ <hr>
  about me:
  
 |[ telegram ](https://t.me/M_ambari)

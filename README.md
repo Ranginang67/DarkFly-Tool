@@ -32,9 +32,12 @@ NOTE:
 
 * `if $ python install.py is not allowed on ubuntu. Use this`
 * `$ chmod +x install.py`
-* `$ python2 install.py`
+* `$ python install.py`
  
  Thanks!!
+ 
+ _________
+ about me:
  
 |[ telegram ](https://t.me/M_ambari)
 |[ YouTube Channel ](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ)

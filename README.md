@@ -36,7 +36,7 @@ NOTE:
  
  Thanks!!
  
- <hr>
+ <hr color=#000>
  about me:
  
 |[ telegram ](https://t.me/M_ambari)

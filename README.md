@@ -12,13 +12,13 @@ how to install, ( Termux only )
 * `$ pkg install git`
 * `$ git clone https://github.com/Ranginang67/DarkFly-Tool`
 * `$ cd DarkFly-Tool`
-* `$ python2 install`
+* `$ python2 install.py`
 
 NOTE:
 
-* `if $python2 install not permitted. use this`
-* `$ chmod +x install`
-* `$ python2 install`
+* `if $python2 install.py not permitted. use this`
+* `$ chmod +x install.py`
+* `$ python2 install.py`
  
  Thanks!!
  

@@ -1,4 +1,3 @@
-#!/usr/bin/python/jembod/kontol/memek
 # _*hayu ngopi wey*_
 
 import os.path, sys

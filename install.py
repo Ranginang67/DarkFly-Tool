@@ -29,7 +29,6 @@ __ubuntu2__ = [
 
     ".module/.remove $cd /usr/bin",
     "lib $cd /usr/bin"
-    ".module/cln $cd /usr/bin",
 
 ]
 
@@ -44,7 +43,7 @@ __termux__ = {
         "0": ".INF",
         "l": ".FN",
         "s": ".BR",
-        "x": ".STDOWN"
+        "x": ".STDOWN",
     }
 }
 

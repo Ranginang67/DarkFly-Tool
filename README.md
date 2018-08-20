@@ -41,5 +41,4 @@ how to install:
  
 |[ telegram ](https://t.me/M_ambari)
 |[ YouTube Channel ](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ)
-|[ blog ](http://j0mlo.blogspot.com)
 |

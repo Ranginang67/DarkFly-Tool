@@ -52,7 +52,6 @@ __termux2__ = [
 
     ".module/.remove $cd /data/data/com.termux/files/usr/bin",
     "lib $cd /data/data/com.termux/files/usr/bin"
-    ".module/cln $cd /data/data/com.termux/files/usr/bin",
 
 ]
 
@@ -87,7 +86,6 @@ def __main__():
                         os.system("python .module/files/%s" % __ubuntu__["file"]["a"])
                         os.system("mv %s" % __ubuntu2__[0])
                         os.system("mv %s" % __ubuntu2__[1])
-                        os.system("mv %s" % __ubuntu2__[2])
                         print __done__[0]
                         print __done__[1]
                         os.system("python %s" % __ubuntu__["fildon"])
@@ -108,7 +106,6 @@ def __main__():
                     os.system("python2 .module/%s" % __termux__["file"]["x"])
                     os.system("mv %s" % __termux2__[0])
                     os.system("mv %s" % __termux2__[1])
-                    os.system("mv %s" % __termux2__[2])
                     print __done__[0]
                     print __done__[1]
                     os.system("python2 %s" % __ubuntu__["fildon"])

@@ -39,6 +39,5 @@ how to install:
  <hr color=#000>
  about me:
  
-|[ HACKED ](https://www.google.co.id/search?q=Hacked+by+Ms.ambari&oq=hACK&aqs=chrome.0.69i59j69i57j69i61l3j35i39.1264j0j7&sourceid=chrome&ie=UTF-8)
 |[ YouTube Channel ](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ)
 |

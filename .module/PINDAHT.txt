@@ -1,0 +1,1 @@
+mv .module/.remove $cd /data/data/com.termux/files/usr/bin

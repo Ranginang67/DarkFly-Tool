@@ -37,7 +37,4 @@ how to install:
  **Thanks!!**
  
  <hr color=#000>
- about me:
- 
-|[ YouTube Channel ](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ)
-|
+Click [here](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) and Subcribe ^_^

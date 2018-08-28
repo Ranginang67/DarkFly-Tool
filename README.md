@@ -38,5 +38,5 @@ how to install:
  
  <hr color=#000>
 
-Click [here](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) and Subcribe ^_^
+Click [here](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) and Subcribe ^_^<br>
 klik [disini](https://t.me/Msambari) kalau mau ngobrol sama gw :)

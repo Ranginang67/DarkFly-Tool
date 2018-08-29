@@ -40,7 +40,7 @@ To update this tool, just do the reinstallation, the first way is to install the
 
 **indonesia:**
 
-untuk men update tools ini tinggal lakukan install ulang saja caranya seperti pertama install tools darkfly, dengan melakukan install ulang, file yang lama akan di ganti dengan yang baru di install
+untuk men update tools ini tinggal lakukan cloning ulang dan install lagi seperti biasa, dengan melakukan install ulang, file yang lama akan di ganti dengan yang baru di install
 
  **Thanks!!**
  

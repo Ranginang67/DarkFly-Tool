@@ -40,11 +40,11 @@ To update this tool, just do the reinstallation, the first way is to install the
 
 **indonesia:**
 
-untuk men update tools ini tinggal lakukan cloning ulang dan install lagi seperti biasa, dengan melakukan install ulang, file yang lama akan di ganti dengan yang baru di install
+untuk men update tools ini tinggal lakukan cloning ulang dan install lagi seperti pertama kali menginstall, dengan melakukan install ulang, file yang lama akan di ganti dengan yang baru di install
 
  **Thanks!!**
  
  <hr>
  
-|[YouTube](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ)
+|[Support my YouTube Channel :)](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ)
 |

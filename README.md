@@ -12,27 +12,27 @@ how to install:
 
 **Termux:**
 
-* `$ pkg install python2`
-* `$ pkg install git`
-* `$ pkg install php`
-* `$ git clone https://github.com/Ranginang67/DarkFly-Tool`
-* `$ cd DarkFly-Tool`
-* `$ python2 install.py`
+* `pkg install python2`
+* `pkg install git`
+* `pkg install php`
+* `git clone https://github.com/Ranginang67/DarkFly-Tool`
+* `cd DarkFly-Tool`
+* `python2 install.py`
 
 **Ubuntu:**
 
-* `$ sudo su (enter your password)`
-* `$ apt-get install php`
-* `$ apt-get install git`
-* `$ git clone https://github.com/Ranginang67/DarkFly-Tool`
-* `$ cd DarkFly-Tool`
-* `$ python install.py`
+* `sudo su (enter your password)`
+* `apt-get install php`
+* `apt-get install git`
+* `git clone https://github.com/Ranginang67/DarkFly-Tool`
+* `cd DarkFly-Tool`
+* `python install.py`
 
 **NOTE:**
 
-* `if $ python install.py is not allowed on ubuntu. Use this`
-* `$ chmod +x install.py`
-* `$ python install.py`
+* `if python install.py is not allowed on ubuntu. Use this`
+* `chmod +x install.py`
+* `python install.py`
  
 **how to update:**
 

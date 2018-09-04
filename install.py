@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#_*( wey ngopi yu )*_
+#_*( ngopi yu )*_
 
 import os.path
 import sys

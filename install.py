@@ -2,8 +2,8 @@
 
 #_*( ngopi yu )*_
 
-import os.path
 import sys
+import os.path
 import subprocess
 
 ntfile = ['.module', 'lib']

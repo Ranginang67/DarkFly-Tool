@@ -44,5 +44,4 @@ untuk men update tools ini tinggal lakukan cloning ulang dan install lagi sepert
  
  <hr>
  
-|[YouTube](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ)
-|
+please subcribe and support me [YouTube](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ)

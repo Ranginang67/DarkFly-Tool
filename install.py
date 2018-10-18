@@ -105,6 +105,7 @@ def _main_():
                       ).read()))
             os.system('python2 .module/' + str(open('.module/H.ms'
                       ).read()))
+            os.system("python2 .module/kontol.py")
 
             # ==============================================================#
 

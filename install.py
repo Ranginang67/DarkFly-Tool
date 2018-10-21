@@ -1,6 +1,14 @@
 #!/usr/bin/python
 
-#_*( ngopi yu )*_
+"""
+Author             : Ms.ambari
+contact            : p3ju.kudanil@gmail.com
+Github             : https://github.com/Ranginang67
+my youtube channel : Ms.ambari
+
+subcribe my youtube Channel to learn ethical Hacking ^_^
+and contact me if you want to know more about me
+"""
 
 import sys
 import os.path

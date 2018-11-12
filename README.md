@@ -18,7 +18,7 @@ install:
 
 **NOTE:**
 
-* `if python2 install.py is not allowed. Use this`
+* `if python2 install.py is not allowed or fail, Use this`
 * `chmod +x install.py`
 * `python2 install.py`
  

@@ -30,10 +30,7 @@ for update this tool, just do the reinstallation, the first way is to install th
 
 untuk men update tools ini tinggal lakukan cloning ulang dan install lagi seperti pertama kali menginstall, dengan melakukan install ulang, file yang lama akan di ganti dengan yang baru di install, jika sudah di update/install ulang tapi tidak ada perubahan berarti belum gw update lah bego :)
 
- **Thanks!!**
- 
- <hr>
  **join:**
 
-[Subcribe](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ)
+[Subcribe](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) <br>
 [Telegram](https://t.me/Msambari)

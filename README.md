@@ -37,4 +37,4 @@ the DarkFly tools on linux does not working
 ```
 
 # support me
-<a href="https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ">
+<a href="https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg">

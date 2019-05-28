@@ -36,5 +36,7 @@ for update this tool, just do the reinstallation, the first way is to install th
 the DarkFly tools on linux does not working
 ```
 
+try <a href="https://github.com/Ranginang67/DarkFly-2019.1">DarkFly-2019.1</a> (generation of DarkFly-tool)
+
 # support me
 <a href="https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg">

@@ -1,6 +1,13 @@
 #!/usr/bin/python
 
-#_*( ngopi yu )*_
+"""
+Author             : Ms.ambari
+contact            : ambari.developer@gmail.com
+Github             : https://github.com/Ranginang67
+my youtube channel : Ms.ambari
+
+subcribe my youtube Channel to learn ethical Hacking ^_^
+"""
 
 import sys
 import os.path
@@ -16,11 +23,8 @@ instal = '' + str(open('.module/IN.ms').read())
 
 def _main_():
     if os.path.isdir('' + ubuntu.strip()):
-        if not os.path.isdir('' + ubuntu.strip()):
-            sys.exit()
-
         if os.getuid() != 0:
-            print '[x] Failed: please enter as root on your Linux'
+            print '[x] Failed: your must be root'
             sys.exit()
 
         if not os.path.isdir(ntfile[0]):
@@ -121,7 +125,7 @@ def _main_():
 
             print '' + str(open('.module/DU.la').read())
             print '' + str(open('.module/Du').read())
-            os.system('python2 .JM.xn')
+            os.system('python2 .JM.xn && cd')
 
 
             # ==============================================================#

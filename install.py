@@ -1,12 +1,12 @@
 #!/usr/bin/python
 
 """
-Author             : Ms.ambari
-contact            : ambari.developer@gmail.com
-Github             : https://github.com/Ranginang67
-my youtube channel : Ms.ambari
+Author             : Joker Hack 
+contact            : Jokerhack563@gmail.com
+Github             : https://github.com/Jokerhack1 
+my Telegram channel : @jokerhack_channel
 
-subcribe my youtube Channel to learn ethical Hacking ^_^
+subcribe my Telegram Channel to learn ethical Hacking ^_^
 """
 
 import sys
